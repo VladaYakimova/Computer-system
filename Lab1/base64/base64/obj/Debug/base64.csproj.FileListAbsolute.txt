@@ -1,0 +1,13 @@
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.exe.config
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.pdb
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.csprojResolveAssemblyReference.cache
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.pdb
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.exe.config
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.exe
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\bin\Debug\base64.pdb
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.exe
+C:\Users\Vlada\Downloads\Telegram Desktop\компьютерные системы(Сальников)\Компьютерные системы\lab1\base64\base64\obj\Debug\base64.pdb

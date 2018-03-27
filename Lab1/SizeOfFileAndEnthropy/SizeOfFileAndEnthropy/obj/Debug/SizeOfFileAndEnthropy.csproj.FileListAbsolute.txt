@@ -1,0 +1,13 @@
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.exe.config
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.pdb
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.csprojResolveAssemblyReference.cache
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.exe
+D:\Dmitriy\учёба\AAAAAA\Компьютерные системы\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.pdb
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.exe.config
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.exe
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\bin\Debug\SizeOfFileAndEnthropy.pdb
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.csprojResolveAssemblyReference.cache
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.csproj.CoreCompileInputs.cache
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.exe
+D:\учеба\cs\lab1\SizeOfFileAndEnthropy\SizeOfFileAndEnthropy\obj\Debug\SizeOfFileAndEnthropy.pdb
